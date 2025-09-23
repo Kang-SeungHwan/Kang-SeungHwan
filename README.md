@@ -22,7 +22,7 @@
   
   ## 💼 Projects
   ### 1.AWS
-  * 📄 관련 문서: https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/364b9176bf60f175bc871295cd3d179ac0f02222/AWS%20Project.pdf<br/>
+  * 📄 관련 문서: [AWS Project](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/364b9176bf60f175bc871295cd3d179ac0f02222/AWS%20Project.pdf)<br/>
 
     
 
