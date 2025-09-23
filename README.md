@@ -2,7 +2,7 @@
   
   <!--Header-->
   <h1>👋 I'm Kang SeungHwan</h1>
-  안녕하세요! 클라우드 엔지니어를 목표로 하는 강승환입니다.
+  안녕하세요! 클라우드 엔지니어를 목표로 하는 강승환입니다.<br/>
   새로운 기술에 도전하며 성장하기 위해 노력하고 있습니다.
   
 </div>
@@ -11,9 +11,9 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### :raising_hand: 현재 클라우드 엔지니어 취업 준비중<br/>
+  #### :fire: 관심 기술 : br/>
+  #### 📝 이력서 : 
   <br/>
   <br/>
   
