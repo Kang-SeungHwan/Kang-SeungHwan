@@ -24,6 +24,7 @@
   ### 1.AWS
   * 📄 **관련 문서**: [AWS Project](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/364b9176bf60f175bc871295cd3d179ac0f02222/AWS%20Project.pdf)<br/>
 
+  ---
   ### 2.Terraform
   * 📄 **관련 문서**: [Terraform Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/499b3256ed963b810a65fa6c505b821b314cde32/Terraform%20Project.pdf)<br/>
     
