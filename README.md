@@ -19,6 +19,7 @@
   <br/>
   <br/>
   
+  ---
   
   ## 💼 Projects
   ### 1. AWS
@@ -54,6 +55,8 @@
   ### 7. Firewall
   * 📄 **관련 문서**: [Firewall Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/5befdcb80b760470045738c5f984772cf0d25b59/Firewall%20Project.pdf)<br/>
 
+  ---
+  
   ## 🧱 Tech Stack
   ### Language
   <!--Python-->
