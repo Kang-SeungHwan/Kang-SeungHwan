@@ -25,9 +25,15 @@
   * 📄 **관련 문서**: [AWS Project](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/364b9176bf60f175bc871295cd3d179ac0f02222/AWS%20Project.pdf)<br/>
 
   ---
+  
   ### 2.Terraform
   * 📄 **관련 문서**: [Terraform Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/499b3256ed963b810a65fa6c505b821b314cde32/Terraform%20Project.pdf)<br/>
-    
+  
+  ---
+  
+  ### 3.Kubernetes(k8s)
+  * 📄 **관련 문서**: [Kubernetes(k8s) Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17c52684b2ef7c07dd567b181c1644c04f571c7c/Kubernetes(k8s)%20Project.pdf)<br/>
+  
 
   ## 🧱 Tech Stack
   ### Language
