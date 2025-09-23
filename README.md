@@ -1,7 +1,9 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+  <h1>I'm Kang SeungHwan</h1>
+  안녕하세요! 클라우드 엔지니어를 목표로 하는 강승환입니다.
+  새로운 기술에 도전하며 성장하기 위해 노력하고 있습니다.
   
 </div>
 
