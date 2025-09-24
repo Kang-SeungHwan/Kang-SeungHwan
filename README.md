@@ -29,7 +29,7 @@
   ## 💼 Projects
   ### 1. AWS
   * 📄 **관련 문서**: [AWS Project](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/364b9176bf60f175bc871295cd3d179ac0f02222/AWS%20Project.pdf)<br/>
-
+  * :![Tech Stack](https://img.shields.io/badge/Tech_Stack-gray?style=flat&logo=code&logoColor=white)
   ---
 
   ### 2. Kubernetes(k8s)
