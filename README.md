@@ -32,7 +32,7 @@
   * 🛠️ **기술 스택**: AWS EC2, VPC, S3, RDS, CloudFront, CloudWatch
   * 💡 **설명**: AWS를 활용한 퍼블릭 클라우드 인프라 구축 및 고가용성 설계한 프로젝트
   * ✨ **주요 기여**: <br/>
-  * ㅇ
+  - ㅇㅇ
   ---
 
   ### 2. Kubernetes(k8s)
