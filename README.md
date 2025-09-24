@@ -19,7 +19,7 @@
   #### 노션 공부 자료: <br/>
   #### 🏆 주요 자격증: AWS DEA-C01 <br/>
 
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cfa7b39d-5b8f-4427-9b76-7577a0528196" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  
   <br/>
   <br/>
   
