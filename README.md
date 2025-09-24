@@ -19,7 +19,7 @@
   #### 노션 공부 자료: <br/>
   #### 🏆 주요 자격증: AWS DEA-C01 <br/>
 
-  [aws-certified-data-engineer-associate.png](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/0397991a6ef672efceb3bf94accb65f4bd8df408/aws-certified-data-engineer-associate.png)
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cfa7b39d-5b8f-4427-9b76-7577a0528196" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <br/>
   <br/>
   
