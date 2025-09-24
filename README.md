@@ -31,7 +31,8 @@
   * 📄 **관련 문서**: [AWS Project](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_AWS%20Project(2%EC%9D%B8).pdf)<br/>
   * 🛠️ **기술 스택**: AWS EC2, VPC, S3, RDS, CloudFront, CloudWatch
   * 💡 **설명**: AWS를 활용한 퍼블릭 클라우드 인프라 구축 및 고가용성 설계한 프로젝트
-  * 
+  * ✨ **주요 기여**: <br/>
+    *
   ---
 
   ### 2. Kubernetes(k8s)
