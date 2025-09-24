@@ -7,6 +7,8 @@
   
 </div>
 
+---
+
 <div>
   <!--Body-->
   
@@ -15,7 +17,9 @@
   #### :fire: 관심 기술: <br/>
   #### 📝 이력서: [이력서_강승환.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/b6057296b8f85e6695521f7bd9dca8678e0cc1fb/%EC%9D%B4%EB%A0%A5%EC%84%9C_%EA%B0%95%EC%8A%B9%ED%99%98.pdf) <br/>
   #### 노션 공부 자료: <br/>
-  #### 🏆 주요 자격증: AWS DEA-C01
+  #### 🏆 주요 자격증: AWS DEA-C01 <br/>
+
+  https://www.credly.com/badges/cfa7b39d-5b8f-4427-9b76-7577a0528196/public_url
   <br/>
   <br/>
   
