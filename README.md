@@ -28,37 +28,37 @@
   
   ## 💼 Projects
   ### 1. AWS
-  * 📄 **관련 문서**: [AWS Project](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/364b9176bf60f175bc871295cd3d179ac0f02222/AWS%20Project.pdf)<br/>
+  * 📄 **관련 문서**: [AWS Project](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_AWS%20Project(2%EC%9D%B8).pdf)<br/>
   * 🛠️ **기술 스택**: AWS EC2, VPC, S3, RDS, CloudFront, CloudWatch
   ---
 
   ### 2. Kubernetes(k8s)
-  * 📄 **관련 문서**: [Kubernetes(k8s) Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17c52684b2ef7c07dd567b181c1644c04f571c7c/Kubernetes(k8s)%20Project.pdf)<br/>
+  * 📄 **관련 문서**: [Kubernetes(k8s) Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_k8s%20Project.pdf)<br/>
   
   ---
   
   ### 3. Terraform
-  * 📄 **관련 문서**: [Terraform Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/499b3256ed963b810a65fa6c505b821b314cde32/Terraform%20Project.pdf)<br/>
+  * 📄 **관련 문서**: [Terraform Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_Terraform%20Project.pdf)<br/>
 
   ---
   
   ### 4. Rokcy Linux
-  * 📄 **관련 문서**: [Linux Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/5befdcb80b760470045738c5f984772cf0d25b59/Linux%20Project.pdf)<br/>
+  * 📄 **관련 문서**: [Linux Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_Linux%20Project.pdf)<br/>
 
   ---
   
   ### 5. Network
-  * 📄 **관련 문서**: [Network Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/5befdcb80b760470045738c5f984772cf0d25b59/Network%20Project.pdf)<br/>
+  * 📄 **관련 문서**: [Network Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_Network%20Project.pdf)<br/>
   
   ---
   
   ### 6. vSphere
-  * 📄 **관련 문서**: [vSphere Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/5befdcb80b760470045738c5f984772cf0d25b59/vSphere%20Project.pdf)<br/>
+  * 📄 **관련 문서**: [vSphere Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_vSphere%20Project.pdf)<br/>
 
   ---
 
   ### 7. Firewall
-  * 📄 **관련 문서**: [Firewall Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/5befdcb80b760470045738c5f984772cf0d25b59/Firewall%20Project.pdf)<br/>
+  * 📄 **관련 문서**: [Firewall Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_Firewall%20Project.pdf)<br/>
 
   ---
   
