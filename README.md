@@ -19,7 +19,8 @@
   #### 노션 공부 자료: <br/>
   #### 🏆 주요 자격증: AWS DEA-C01 <br/>
 
-  
+  <img width="125" height="125" alt="aws-certified-data-engineer-associate" src="https://github.com/user-attachments/assets/d4f239fc-28b4-414d-aec6-e589a7de04f1" />
+
   <br/>
   <br/>
   
