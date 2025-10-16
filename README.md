@@ -129,10 +129,14 @@
   * Firewall: ASA842
 
   ### 🖥️Operating System
-  * Linux: Rocky 9.5, Ubuntu (20.04, 22.04, 24.04), Kali Linux
+  * Linux: Rocky 9.5, Ubuntu (20.04, 22.04, 24.04)
   * Windows Server: 2012, 2016
 
   ---
+
+  📞Contact </br>
+  * 📧Email:kangsh_24@naver.com
+
  
 </div>
 
