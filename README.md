@@ -80,7 +80,7 @@
     * d
   ---
 
-  ### 📜 Certifications & Education
+  ### 📜 Certifications & Education  <br/>
   * 🏆 **자격증**
     * AWS Certificated Data Engineer - Associate (DEA)
     * 네트워크 관리사 2급
@@ -110,8 +110,9 @@
         
   ---
 
-  ### ⚙️Skills & Tools
-  ####
+  ## ⚙️Skills & Tools  <br/>
+  
+  
  
   
  
