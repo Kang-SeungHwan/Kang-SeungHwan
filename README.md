@@ -113,6 +113,7 @@
   ### ☁️Cloud
   * Cloud Platforms: AWS (EC2, S3, IAM, VPC, RDS, EKS, NLB, ALB, Route53), GCP
   * Containerization & Orchestration: Docker, Kubernetes (1.30.14)
+  * CI/CD & Automation: Shell Script 
   * Infrastructure as Code (IaC): Terraform
 
   ### 🧰Tools & Platforms
