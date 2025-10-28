@@ -43,54 +43,7 @@
   * 🛠️ **기술 스택**: Kubernetes, Docker
   * 💡 **설명**: Kubernetes 실습을 통한 CKA 시험 대비 및 클러스터 운영
   * ✨ **주요 기여**: <br/>
-    * Kubernetes 클러스터 설치 및 배포 환경 설정
-    * YAML로 Kubernetes 리소스 배포 및 관리
-    * RBAC 설정
-    * 노드 스케줄링 및 Pod 관리
-  ---
-
-   ### 3. Terraform
-  * 📄 **관련 문서**: [Kubernetes(k8s) Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_k8s%20Project.pdf)<br/>
-  * 🛠️ **기술 스택**: Kubernetes, Docker
-  * 💡 **설명**: Kubernetes 실습을 통한 CKA 시험 대비 및 클러스터 운영
-  * ✨ **주요 기여**: <br/>
-    * Kubernetes 클러스터 설치 및 배포 환경 설정
-    * YAML로 Kubernetes 리소스 배포 및 관리
-    * RBAC 설정
-    * 노드 스케줄링 및 Pod 관리
-  ---
-  
-   ### 4. Rocky Linux
-  * 📄 **관련 문서**: [Kubernetes(k8s) Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_k8s%20Project.pdf)<br/>
-  * 🛠️ **기술 스택**: Kubernetes, Docker
-  * 💡 **설명**: Kubernetes 실습을 통한 CKA 시험 대비 및 클러스터 운영
-  * ✨ **주요 기여**: <br/>
-    * Kubernetes 클러스터 설치 및 배포 환경 설정
-    * YAML로 Kubernetes 리소스 배포 및 관리
-    * RBAC 설정
-    * 노드 스케줄링 및 Pod 관리
-  ---
-  
-   ### 5. Network
-  * 📄 **관련 문서**: [Kubernetes(k8s) Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_k8s%20Project.pdf)<br/>
-  * 🛠️ **기술 스택**: Kubernetes, Docker
-  * 💡 **설명**: Kubernetes 실습을 통한 CKA 시험 대비 및 클러스터 운영
-  * ✨ **주요 기여**: <br/>
-    * Kubernetes 클러스터 설치 및 배포 환경 설정
-    * YAML로 Kubernetes 리소스 배포 및 관리
-    * RBAC 설정
-    * 노드 스케줄링 및 Pod 관리
-  ---
-  
-   ### 6. vSphere
-  * 📄 **관련 문서**: [Kubernetes(k8s) Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_k8s%20Project.pdf)<br/>
-  * 🛠️ **기술 스택**: Kubernetes, Docker
-  * 💡 **설명**: Kubernetes 실습을 통한 CKA 시험 대비 및 클러스터 운영
-  * ✨ **주요 기여**: <br/>
-    * Kubernetes 클러스터 설치 및 배포 환경 설정
-    * YAML로 Kubernetes 리소스 배포 및 관리
-    * RBAC 설정
-    * 노드 스케줄링 및 Pod 관리
+    * Kubernetes 클러스터정
   ---
 
   ### 7. Firewall
