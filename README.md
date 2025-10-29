@@ -15,7 +15,7 @@
   ## 👀 About Me
   #### :raising_hand: 현재 클라우드 엔지니어 취업 준비중<br/>
   #### :fire: 관심 기술: 클라우드 컴퓨팅, IaC/DevOps <br/>
-  #### 📝 이력서: [이력서_강승환.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/32b49ec0a986e17c5f1dd65e978db474bf2c575a/Data/%EC%9D%B4%EB%A0%A5%EC%84%9C_%EA%B0%95%EC%8A%B9%ED%99%98.pdf) <br/>
+  #### 📝 이력서: [이력서_강승환.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/2cad10940e94a992e89be03df7e70534f74d2a19/Data/%EC%9D%B4%EB%A0%A5%EC%84%9C_%EA%B0%95%EC%8A%B9%ED%99%98.pdf)<br/>
   #### 🏆 주요 자격증: AWS DEA-C01 <br/>
 
   <img width="125" height="125" alt="aws-certified-data-engineer-associate" src="https://github.com/user-attachments/assets/d4f239fc-28b4-414d-aec6-e589a7de04f1" />
