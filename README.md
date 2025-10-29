@@ -46,6 +46,48 @@
     * Kubernetes 클러스터정
   ---
 
+  ## 💼 Projects
+  ### 1. AWS
+  * 📄 **관련 문서**:
+    * [AWS Project](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_AWS%20Project(2%EC%9D%B8).pdf)<br/>
+    * [AWS EKS Project](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/9975cd815b3b4d6aa67bb99260d674422f3d902f/Data/Rest_AWS_EKS%20Project.pdf)<br/>
+  * 🛠️ **기술 스택**: AWS EC2, VPC, S3, RDS, CloudFront, CloudWatch, EKS
+  * 💡 **설명**: AWS를 활용한 퍼블릭 클라우드 인프라 구축 및 고가용성 설계
+  * ✨ **주요 기여**: <br/>
+    * VPC 및 서브넷 설계 및 구축
+    * CloudFront 및 S3를 활용한 정적 웹 사이트 호스팅
+    * EKS 클러스터 구축 및 관리
+  ---
+
+  ### 2. Kubernetes(k8s)
+  * 📄 **관련 문서**: [Kubernetes(k8s) Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_k8s%20Project.pdf)<br/>
+  * 🛠️ **기술 스택**: Kubernetes, Docker
+  * 💡 **설명**: Kubernetes 실습을 통한 CKA 시험 대비 및 클러스터 운영
+  * ✨ **주요 기여**: <br/>
+    * Kubernetes 클러스터정
+  ---
+
+  ## 💼 Projects
+  ### 1. AWS
+  * 📄 **관련 문서**:
+    * [AWS Project](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_AWS%20Project(2%EC%9D%B8).pdf)<br/>
+    * [AWS EKS Project](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/9975cd815b3b4d6aa67bb99260d674422f3d902f/Data/Rest_AWS_EKS%20Project.pdf)<br/>
+  * 🛠️ **기술 스택**: AWS EC2, VPC, S3, RDS, CloudFront, CloudWatch, EKS
+  * 💡 **설명**: AWS를 활용한 퍼블릭 클라우드 인프라 구축 및 고가용성 설계
+  * ✨ **주요 기여**: <br/>
+    * VPC 및 서브넷 설계 및 구축
+    * CloudFront 및 S3를 활용한 정적 웹 사이트 호스팅
+    * EKS 클러스터 구축 및 관리
+  ---
+
+  ### 2. Kubernetes(k8s)
+  * 📄 **관련 문서**: [Kubernetes(k8s) Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_k8s%20Project.pdf)<br/>
+  * 🛠️ **기술 스택**: Kubernetes, Docker
+  * 💡 **설명**: Kubernetes 실습을 통한 CKA 시험 대비 및 클러스터 운영
+  * ✨ **주요 기여**: <br/>
+    * Kubernetes 클러스터정
+  ---
+
   ### 7. Firewall
   * 📄 **관련 문서**: [Firewall Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_Firewall%20Project.pdf)<br/>
   * 🛠️ **기술 스택**: Rocky Linux 9.5
