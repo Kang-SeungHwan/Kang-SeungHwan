@@ -43,10 +43,11 @@
   * 🛠️ **기술 스택**: Kubernetes, Docker
   * 💡 **설명**: Kubernetes 실습을 통한 CKA 시험 대비 및 클러스터 운영
   * ✨ **주요 기여**: <br/>
-    * Kubernetes 클러스터정
+    * Kubernetes 클러스터 설치 및 배포 환경 설정
+    * YAML로 Kubernetes 리소스 배포 및 관리
+    * 노드 스케줄링 및 Pod 재배치 관리
   ---
 
-  ## 💼 Projects
   ### 1. AWS
   * 📄 **관련 문서**:
     * [AWS Project](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_AWS%20Project(2%EC%9D%B8).pdf)<br/>
@@ -67,7 +68,6 @@
     * Kubernetes 클러스터정
   ---
 
-  ## 💼 Projects
   ### 1. AWS
   * 📄 **관련 문서**:
     * [AWS Project](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_AWS%20Project(2%EC%9D%B8).pdf)<br/>
