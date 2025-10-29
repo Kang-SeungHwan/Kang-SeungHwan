@@ -40,7 +40,7 @@
 
   ### 2. Kubernetes(k8s)
   * 📄 **관련 문서**: [Kubernetes(k8s) Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_k8s%20Project.pdf)<br/>
-  * 🛠️ **기술 스택**: Kubernetes, Docker
+  * 🛠️ **기술 스택**: Kubernetes 1.30.14, Docker
   * 💡 **설명**: Kubernetes 실습을 통한 CKA 시험 대비 및 클러스터 운영
   * ✨ **주요 기여**: <br/>
     * Kubernetes 클러스터 설치 및 배포 환경 설정
@@ -49,50 +49,55 @@
   ---
 
   ### 3. Terraform
-  * 📄 **관련 문서**:
-    * [Rest_Terraform Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/cbeb4cba36b4645867896c4228065093714a0a31/Data/Rest_Terraform%20Project.pdf)<br/>
-  * 🛠️ **기술 스택**: AWS EC2, VPC, S3, RDS, CloudFront, CloudWatch, EKS
-  * 💡 **설명**: AWS를 활용한 퍼블릭 클라우드 인프라 구축 및 고가용성 설계
+  * 📄 **관련 문서**: [Terraform Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/cbeb4cba36b4645867896c4228065093714a0a31/Data/Rest_Terraform%20Project.pdf)<br/>
+  * 🛠️ **기술 스택**: Terraform, AWS, Github, Terraform Cloud
+  * 💡 **설명**: AWS를 활용한 Public/Private 네트워크 기반 인프라 구축 및 자동화(CI/CD) 설계
   * ✨ **주요 기여**: <br/>
     * VPC 및 서브넷 설계 및 구축
-    * CloudFront 및 S3를 활용한 정적 웹 사이트 호스팅
-    * EKS 클러스터 구축 및 관리
+    * CI/CD 자동화 환경 구축
+    * 인프라 코드 관리
   ---
 
-  ### 2. Kubernetes(k8s)
-  * 📄 **관련 문서**: [Kubernetes(k8s) Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_k8s%20Project.pdf)<br/>
-  * 🛠️ **기술 스택**: Kubernetes, Docker
-  * 💡 **설명**: Kubernetes 실습을 통한 CKA 시험 대비 및 클러스터 운영
+  ### 4. Rocky Linux
+  * 📄 **관련 문서**: [Linux Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/729a619812e9ce147f0403f67a16f30ecc55cfaf/Data/Rest_Linux%20Project.pdf)<br/>
+  * 🛠️ **기술 스택**: Rocky Linux 9.5
+  * 💡 **설명**: Rocky Linux 9.5를 활용한 리눅스 서버 구성
   * ✨ **주요 기여**: <br/>
-    * Kubernetes 클러스터정
+    * Rocky Linux 기반 서버 구축 및 운영
+    * 서버 설치 및 네트워크 구성
+    * 사용자 관리 및 LVM 설정
+    * 서버 서비스 설치 및 방화벽 설정
   ---
 
-  ### 1. AWS
-  * 📄 **관련 문서**:
-    * [AWS Project](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_AWS%20Project(2%EC%9D%B8).pdf)<br/>
-    * [AWS EKS Project](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/9975cd815b3b4d6aa67bb99260d674422f3d902f/Data/Rest_AWS_EKS%20Project.pdf)<br/>
-  * 🛠️ **기술 스택**: AWS EC2, VPC, S3, RDS, CloudFront, CloudWatch, EKS
-  * 💡 **설명**: AWS를 활용한 퍼블릭 클라우드 인프라 구축 및 고가용성 설계
+  ### 5. vSphere
+  * 📄 **관련 문서**: [vSphere Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/729a619812e9ce147f0403f67a16f30ecc55cfaf/Data/Rest_vSphere%20Project.pdf)<br/>
+  * 🛠️ **기술 스택**: VMware vSphere, ESXi, vCenter
+  * 💡 **설명**: VMware vSphere 기반 서버 가상화 구현
   * ✨ **주요 기여**: <br/>
-    * VPC 및 서브넷 설계 및 구축
-    * CloudFront 및 S3를 활용한 정적 웹 사이트 호스팅
-    * EKS 클러스터 구축 및 관리
+    * vSphere 환경에서 가상머신 배포 및 최적화
+    * ESXi 설치 및 vCenter 구성
+    * 고가용성(HA) 및 FT 설정
   ---
 
-  ### 2. Kubernetes(k8s)
-  * 📄 **관련 문서**: [Kubernetes(k8s) Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_k8s%20Project.pdf)<br/>
-  * 🛠️ **기술 스택**: Kubernetes, Docker
-  * 💡 **설명**: Kubernetes 실습을 통한 CKA 시험 대비 및 클러스터 운영
+  ### 6. Network
+  * 📄 **관련 문서**: [Network Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/729a619812e9ce147f0403f67a16f30ecc55cfaf/Data/Rest_Network%20Project.pdf)<br/>
+  * 🛠️ **기술 스택**: XShell 8, GNS3, IOU-Web, L3-Switch CISCO
+  * 💡 **설명**: CISCO 라우터와 스위치를 이용한 네트워크 설정
   * ✨ **주요 기여**: <br/>
-    * Kubernetes 클러스터정
+    * 물리적 구성도 및 IP 구성도 설계
+    * IP IGP 프로토콜 구성 (RIP, OSPF)
+    * VLAN 구성 및 관리 인터페이스 설정
   ---
 
   ### 7. Firewall
   * 📄 **관련 문서**: [Firewall Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_Firewall%20Project.pdf)<br/>
-  * 🛠️ **기술 스택**: Rocky Linux 9.5
+  * 🛠️ **기술 스택**: GNS3, Cisco ASA
   * 💡 **설명**: Cisco ASA 방화벽을 이용해 Active/Standby 및 Active/Active 구성을 설정하고, MPF, ACL, NAT 정책을 적용해 트래픽을 제어한 프로젝트
   * ✨ **주요 기여**: <br/>
-    * 
+    * 네트워크 및 라우팅 프로토콜 적용
+    * 방화벽 고가용성 구성 및 이중화 구현
+    * 다중 보안 Context 설계 및 트래픽 분리
+    * 트래픽 제어 및 주소 변환 정책 적용
   ---
 
   ## 📜 Certifications & Education  <br/>
