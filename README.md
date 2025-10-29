@@ -30,12 +30,23 @@
   * 📄 **관련 문서**:
     * [AWS Project](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/17dc97ca305d3a205ebb16981146781eadba8f35/Data/Rest_AWS%20Project(2%EC%9D%B8).pdf)<br/>
     * [AWS EKS Project](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/9975cd815b3b4d6aa67bb99260d674422f3d902f/Data/Rest_AWS_EKS%20Project.pdf)<br/>
-  * 🛠️ **기술 스택**: AWS EC2, VPC, S3, RDS, CloudFront, CloudWatch, EKS
-  * 💡 **설명**: AWS를 활용한 퍼블릭 클라우드 인프라 구축 및 고가용성 설계
+  * 🛠️ **기술 스택**:
+    * AWS VPC, EC2, RDS, S3, CloudWatch, CloudFormation
+    * AWS EC2, EKS, ALB, NLB, Route 53, IAM, helm, kubectl, eksctl
+  * 💡 **설명**:
+    * Public/Private Subnet 기반 보안 인프라 구축, 웹 서비스 및 데이터베이스 운영, S3 관리, CloudWatch 모니터링/알림 시스템 구현
+    * EKS 클러스터를 구축, Load Balancer Controller를 활용하여 컨테이너 서비스의 다양한 로드밸런싱(ALB/NLB) 및 도메인 연동 구현
   * ✨ **주요 기여**: <br/>
-    * VPC 및 서브넷 설계 및 구축
-    * CloudFront 및 S3를 활용한 정적 웹 사이트 호스팅
-    * EKS 클러스터 구축 및 관리
+    * VPC 네트워크 설계 및 구축
+    * 고가용성 웹 서비스 구축
+    * 데이터베이스 운영 및 관리
+    * 모니터링 및 알림 시스템 구축
+    * S3 스토리지 관리
+
+    * EKS 클러스터 및 환경 구축
+    * AWS Load Balancer 연동 자동화
+    * 다중 Load Balancer 서비스 배포
+    * 도메인 서비스 연동
   ---
 
   ### 2. Kubernetes(k8s)
