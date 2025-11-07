@@ -80,25 +80,13 @@
   ---
 
   ### 5. vSphere
-  * 📄 **관련 문서**: [vSphere Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/729a619812e9ce147f0403f67a16f30ecc55cfaf/Data/Rest_vSphere%20Project.pdf)<br/>
-  * 🛠️ **기술 스택**: VMware vSphere, ESXi, vCenter
-  * 💡 **설명**: VMware vSphere 기반 서버 가상화 구현
-  * ✨ **주요 기여**: <br/>
-    * vSphere 환경에서 가상머신 배포 및 최적화
-    * ESXi 설치 및 vCenter 구성
-    * 고가용성(HA) 및 FT 설정
-  ---
-
-  ### 6. Network
-  * 📄 **관련 문서**:
-    * [Network Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/729a619812e9ce147f0403f67a16f30ecc55cfaf/Data/Rest_Network%20Project.pdf)<br/>
-    * [Rest_MPLS_Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/53d57e32e90ba658502ffd6018f00dc9b7259247/Data/Rest_MPLS_Project.pdf)<br/>
-  * 🛠️ **기술 스택**: XShell 8, GNS3, IOU-Web, L3-Switch CISCO
-  * 💡 **설명**: CISCO 라우터와 스위치를 이용한 네트워크 설정
+  * 📄 **관련 문서**: [vSphere Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/729a619812e9ce147f0403f67a16f30ecc55cfaf/Data/Rest_vSphere현
   * ✨ **주요 기여**: <br/>
     * 물리적 구성도 및 IP 구성도 설계
     * IP IGP 프로토콜 구성 (RIP, OSPF)
-    * VLAN 구성 및 관리 인터페이스 설정
+    * VLAN 구성 및 관리 인터페이스 설정 /
+    * MPLS TE FRR 구성 및 설정
+    * IGP 및 RSVP 설정
   ---
 
   ### 7. Firewall
