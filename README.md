@@ -90,13 +90,21 @@
   ---
 
   ### 6. Network
-  * 📄 **관련 문서**: [Network Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/729a619812e9ce147f0403f67a16f30ecc55cfaf/Data/Rest_Network%20Project.pdf)<br/>
-  * 🛠️ **기술 스택**: XShell 8, GNS3, IOU-Web, L3-Switch CISCO
-  * 💡 **설명**: CISCO 라우터와 스위치를 이용한 네트워크 설정
+  * 📄 **관련 문서**:
+    * [Network Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/729a619812e9ce147f0403f67a16f30ecc55cfaf/Data/Rest_Network%20Project.pdf)<br/>
+    * [MPLS_Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/53d57e32e90ba658502ffd6018f00dc9b7259247/Data/Rest_MPLS_Project.pdf)<br/>
+  * 🛠️ **기술 스택**:
+    * XShell 8, GNS3, IOU-Web, L3-Switch CISCO
+    * XShell 8, GNS3, Cisco IOS(라우터), MPLS, RSVP, ISIS
+  * 💡 **설명**:
+    * CISCO 라우터와 스위치를 이용한 네트워크 설정
+    * MPLS TE 및 FRR 기술을 적용한 고성능 및 고가용성 네트워크 구현
   * ✨ **주요 기여**: <br/>
     * 물리적 구성도 및 IP 구성도 설계
     * IP IGP 프로토콜 구성 (RIP, OSPF)
-    * VLAN 구성 및 관리 인터페이스 설정
+    * VLAN 구성 및 관리 인터페이스 설정 /
+    * MPLS TE FRR 구성 및 설정
+    * IGP(ISIS) 및 RSVP 설정
   ---
 
   ### 7. Firewall
