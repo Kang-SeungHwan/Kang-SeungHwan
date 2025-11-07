@@ -90,7 +90,9 @@
   ---
 
   ### 6. Network
-  * 📄 **관련 문서**: [Network Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/729a619812e9ce147f0403f67a16f30ecc55cfaf/Data/Rest_Network%20Project.pdf)<br/>
+  * 📄 **관련 문서**:
+    * [Network Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/729a619812e9ce147f0403f67a16f30ecc55cfaf/Data/Rest_Network%20Project.pdf)<br/>
+    * [Rest_MPLS_Project.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/53d57e32e90ba658502ffd6018f00dc9b7259247/Data/Rest_MPLS_Project.pdf)<br/>
   * 🛠️ **기술 스택**: XShell 8, GNS3, IOU-Web, L3-Switch CISCO
   * 💡 **설명**: CISCO 라우터와 스위치를 이용한 네트워크 설정
   * ✨ **주요 기여**: <br/>
