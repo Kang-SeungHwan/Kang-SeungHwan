@@ -2,7 +2,7 @@
   
   <!--Header-->
   <h1>👋 I'm Kang SeungHwan</h1>
-  안녕하세요! 클라우드 엔지니어를 목표로 하는 강승환입니다.<br/>
+  안녕하세요! 네트워크 엔지니어를 목표로 하는 강승환입니다.<br/>
   새로운 기술에 도전하며 성장하기 위해 노력하고 있습니다.
   
 </div>
@@ -13,8 +13,8 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: 현재 클라우드 엔지니어 취업 준비중<br/>
-  #### :fire: 관심 기술: 클라우드 컴퓨팅, IaC/DevOps <br/>
+  #### :raising_hand: 현재 네트워크 엔지니어 취업 준비중<br/>
+  #### :fire: 관심 기술: 고가용성 네트워크 설계, 트래픽 최적화 및 경로 제어<br/>
   #### 📝 이력서: [이력서_강승환.pdf](https://github.com/Kang-SeungHwan/Kang-SeungHwan/blob/2cad10940e94a992e89be03df7e70534f74d2a19/Data/%EC%9D%B4%EB%A0%A5%EC%84%9C_%EA%B0%95%EC%8A%B9%ED%99%98.pdf)<br/>
   #### 🏆 주요 자격증: AWS DEA-C01 <br/>
 
